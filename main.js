@@ -4,3 +4,8 @@ al posto dei multipli di 3, deve stampare "Fizz"
 al posto dei multipli di 5, deve stampare "Buzz"
 al posto dei multipli sia di 3 che di 5, deve stampare "FizzBuzz"
 */
+
+// STAMPO I 100NUMERI
+for (var i = 1; i <= 100; i++) {
+    console.log(i);
+}
