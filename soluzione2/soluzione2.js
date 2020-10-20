@@ -36,7 +36,7 @@ for (var i = 0; i < final_container.length; i++) {
 
     // document.getElementById('all_numbers').innerHTML = final_container[i];
 
-    
+
     /*
     IL PROBLEMA DI QUESTA SOLUZIONE INVECE è CHE NON RIESCO A GESTIRE I SINGOLI ELEMENTI DELL'ARRAY MA LI TRATTA COME BLOCCO UNICO
     */
