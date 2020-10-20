@@ -9,9 +9,9 @@ body {
     background-color: slateblue;
 }
 
-.numbers-container {
-    width: 50px;
-    margin: auto;
-    height: 100%;
-    
+p {
+    color: gold;
+    text-align: center;
+    font-size: 30px;
+    margin: 10px 0;
 }
